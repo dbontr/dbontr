@@ -4,4 +4,4 @@ I’m an **Engineering Physics** student at the **University of Kansas**, with m
 
 **Links:**
 - [Personal Website](https://dbontr.github.io/)
-- Groundhog Weather Predictor](https://dbontr.github.io/groundhog-powered-meteorology/)
+- [Groundhog Weather Predictor](https://dbontr.github.io/groundhog-powered-meteorology/)
